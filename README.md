@@ -4,7 +4,7 @@
 
 This repository contains an investigation into self driving vehicles trained using Reinforcement Learning. 
 
-The reward function that is provided here was also entered into the Deepracer Global league and placed $46^{th}$ out of over 1000 other competitors. Videos of other reward function can be viewed **[here](https://www.youtube.com/playlist?list=PLHJnNMDewRNjle-g_ezKWwnh0J785v-8J)** with other reward functions found **[here](https://github.com/Mike-In-The-Cloud/Masters-Source-Code)**
+The reward function that is provided here was also entered into the Deepracer Global league and placed 46<sup>th</sup> out of over 1000 other competitors. Videos of other reward function can be viewed **[here](https://www.youtube.com/playlist?list=PLHJnNMDewRNjle-g_ezKWwnh0J785v-8J)** with other reward functions found **[here](https://github.com/Mike-In-The-Cloud/Masters-Source-Code)**
 
 Utilising Amazon Web Services **[DeepRacer](https://aws.amazon.com/deepracer/)** as a platform to conduct experiments, and end-to-end solution from training in a simulated environment to testing on real world hardware has been conducted. 
 
